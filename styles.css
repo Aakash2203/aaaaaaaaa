@@ -1,0 +1,17 @@
+body{background-color: beige;}
+.black{width: 200px;
+background-color: red;
+border-style: dotted;
+border-width: 10px;
+}
+
+.black2{width:200px;
+background-color:green;
+border-style: dotted;
+border-width: 10px;}
+hr{border-top-style:dotted;
+  border-bottom-style:none;
+  border-left-style: none;
+  border-right-style: none;
+  background-color: white;
+  width:30%;}
